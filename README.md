@@ -1,4 +1,4 @@
-[![MasterHead]https://guzeloldu.com/wp-content/uploads/2023/12/1x-1-scaled.jpg
+[![MasterHead](https://guzeloldu.com/wp-content/uploads/2023/12/1x-1-scaled.jpg)
 <h1 align="center">Hi 👋, I'm morfies</h1>
 <h3 align="center">a technical trader and node operator in Turkey</h3>
 
